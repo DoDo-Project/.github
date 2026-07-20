@@ -9,11 +9,7 @@
 
 <br/>
 
-<!-- 서비스 대표 이미지가 준비되면 아래 주석을 해제하세요. -->
-
-<!--
-<img src="./assets/dodo-main.png" alt="DoDo 서비스 대표 이미지" width="850"/>
--->
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/fc330a18-2336-4ea8-8832-94f87253e78e" />
 
 </div>
 
